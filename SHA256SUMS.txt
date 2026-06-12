@@ -1,0 +1,6 @@
+aa3c94b36fb02cd18f7eea37d4508a970f4563096062cc14ea4717fbefcc96d9  orange-executive-brief.md
+1310f7b425eebda567bf1d5b2b0c1dd8f106049efec784baf5733810bcc23bbf  orange-executive-brief.pdf
+fc845cb11753a536d69cb173a5216aeb61c31a0b439bd7b39a7a8341055600eb  orange-executive-brief.zh-CN.pdf
+100df9e8879724c224a88e7a8ad7d257a24c16c78f8e9de540ce458cadce1dd6  orange-white-paper.md
+64dec8fd1520b79c2ef24ac2af77e2edd51ac05bd9c07d9958bd1d4f2669598f  orange-white-paper.pdf
+72bd16c8e9879bef265a3935371341fb8517802ce26589fb9484bd7c872de934  orange-white-paper.zh-CN.pdf
